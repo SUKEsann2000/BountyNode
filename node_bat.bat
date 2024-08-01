@@ -1,3 +1,3 @@
 node index.js
 pause
-./public/git_bash.bat
+git_bash.bat
